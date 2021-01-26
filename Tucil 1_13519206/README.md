@@ -12,6 +12,7 @@ python 3.7.6
    ---------+
        hasil
 ```
+> program hanya dapat menerima 1 problem dalam 1 kali eksekusi program
 3. Jalankan program.
 4. Solusi akan ditampilkan di command line.
 ## Author
