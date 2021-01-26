@@ -1,5 +1,5 @@
 # Tugas Kecil 1 IF2211 Strategi Algoritma
-## Deskripisi
+## Description
 Menyelesaikan persoalan Cryptarithmetic menggunakan algoritma brute force dengan python
 ## Requirement
 python 3.7.6
