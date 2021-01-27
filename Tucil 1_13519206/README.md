@@ -12,7 +12,7 @@ python 3.7.6
    ---------+
        hasil
 ```
-> program hanya dapat menerima 1 problem dalam 1 kali eksekusi program
+> program hanya dapat menerima 1 problem dalam 1 kali eksekusi program. Kumpulan problem dapat dilihat pada file ```kumpulan problem.txt``` pada folder test
 3. Jalankan executable program pada folder bin.
 4. Solusi akan ditampilkan di command line.
 ## Author
