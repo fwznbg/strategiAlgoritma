@@ -13,7 +13,8 @@ python 3.7.6
        hasil
 ```
 > program hanya dapat menerima 1 problem dalam 1 kali eksekusi program
-3. Jalankan program.
+3. Jalankan program melalui command line.
+> ```python cryptarith.py```
 4. Solusi akan ditampilkan di command line.
 ## Author
 Muhammad Fawwaz Naabigh - 13519206
