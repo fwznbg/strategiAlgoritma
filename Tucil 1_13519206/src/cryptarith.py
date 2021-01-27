@@ -3,7 +3,7 @@ import re, time, os
 # Membaca masukan dari file.txt 
 # dan mengembalikan list yang berisi setiap kata dari masukan
 def bacaFile():
-    directory = os.path.abspath("./test/cryptarith.txt")
+    directory = os.path.abspath("../test/cryptarith.txt")
     f = open(directory, "r")
     lines = f.readlines()
     clean_lines = []
@@ -97,3 +97,5 @@ for permutasi in perm:
         print("\nBanyak percobaan", banyakPercobaan)
         print("Waktu yang dibutuhkan", waktu, "detik")
         break
+print()
+input("Press ENTER to exit")
