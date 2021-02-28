@@ -1,4 +1,4 @@
-# Tugas Kecil 1 IF2211 Strategi Algoritma
+# Tugas Kecil 2 IF2211 Strategi Algoritma
 ## Description
 Program untuk menyusun rencana pengambilan kuliah, dengan memanfaatkan algoritma Decrease and Conquer. Penyusunan Rencana Kuliah diimplementasikan dengan menggunakan pendekatan Topological Sorting.
 ## Requirement
