@@ -75,6 +75,7 @@ def topSort(dictOfCourses):
             for matkul in selectedCourse:
                 if matkul in prereq:
                     prereq.remove(matkul)
+        # print(dictOfCourses)
     return coursePerSemester
 
 def printFailed():
