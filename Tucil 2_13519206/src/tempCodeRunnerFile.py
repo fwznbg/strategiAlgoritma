@@ -108,12 +108,12 @@ def printHasil(arrayOfCourses):
     '''
     Dipanggil untuk menampilkan hasil ke layar
     '''
-    if(len(arrayOfCourses) == 0):
+    if(len(topsort) == 0):
        printFailed()
     else:
         print("\n\tMata kuliah yang dapat Anda ambil tiap semester adalah:")
         for i in range(len(arrayOfCourses)):
-            print(f'\tSemester {i+1} : {", ".join(arrayOfCourses[i])}')
+            print(f'\tSemester {i+1} : {", ".join(topsort[i])}')
         print()
         input("Press ENTER to exit")
 
